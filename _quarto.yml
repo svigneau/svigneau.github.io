@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "svigneau.github.io"
+  title: "Sébastien Vigneau"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: about
+      - href: cv.qmd
+        text: cv
 
 format:
   html:

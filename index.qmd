@@ -1,5 +1,5 @@
 ---
-title: "Sébastien Vigneau"
+title: ""
 #image: media/
 toc: false
 about: 
@@ -13,6 +13,12 @@ about:
       href: https://github.com/svigneau
     - text: Email
       href: mailto:sebastien.vigneau@gmail.com
+    - text: Mastodon
+      href: https://social.coop/@svigneau
 ---
 
-Hi there! Professionally, I am a computational biologist with a focus on gene expression, and the goal of making a positive contribution to society. My background includes both computational and experimental biology, and work in fundamental research, clinical research, and industry. Outside of work, I enjoy arts (among which playing music and dancing), crafts (particularly woodworking and cooking), and spending time exploring. I care about the environment, human rights, education, and participating in like-minded communities.
+Hi there! 
+
+Professionally, I am a computational biologist with a focus on gene expression, and the goal of making a positive contribution to society. My background includes both computational and experimental biology, and work in fundamental research, clinical research, and industry. 
+
+Outside of work, I enjoy arts (among which playing music and dancing), crafts (particularly woodworking and cooking), and spending time exploring. I care about the environment, human rights, education, and participating in like-minded communities.
