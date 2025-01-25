@@ -2,4 +2,18 @@
 title: ""
 ---
 
-in construction...
+... page in construction ...
+
+## Summary
+
+**Computational Biologist** with a focus on gene expression and sequencing-based screen analyses. Expert in single-cell transcriptomics, epigenetics, genome annotation, large-scale pooled and arrayed screens. Academic, biomedical, and industry background, including team and project management.
+
+## Experience
+
+**Senior Computational Biologist** in Next Generation Sequencing and Datapoints Teams, Ginkgo Bioworks, Boston, MA, USA (April 2022 - Present)
+
+- Building bioinformatics workflows and conducting analyses for single-cell RNA sequencing and arrayed DRUG-seq genetic screens
+- Designed single-cell RNA sequencing assays, trained team members, implemented bioinformatics workflow, and conducted analyses to improve packaging yield and tissue-specificity of AAV vectors
+- Implemented bioinformatics workflows and conducted analyses of high-throughput sequencing-based pooled screens to identify sequences improving the stability and translation of RNA vectors
+- Analyzed high-throughput RNA sequencing time-course experiments to identify bottlenecks in molecule biosynthesis following fungi cell engineering
+- Developed annotation standards and contributed reference-based, transcriptome-based, and *de novo* genome annotations for a yeast genome rewriting project
