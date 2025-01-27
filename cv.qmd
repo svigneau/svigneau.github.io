@@ -10,10 +10,16 @@ title: ""
 
 ## Experience
 
-**Senior Computational Biologist** in Next Generation Sequencing and Datapoints Teams, Ginkgo Bioworks, Boston, MA, USA (April 2022 - Present)
+**Senior Computational Biologist** in the Next Generation Sequencing and Datapoints Teams, Ginkgo Bioworks, Boston, MA, USA (April 2022 - Present)
 
 - Building bioinformatics workflows and conducting analyses for single-cell RNA sequencing and arrayed DRUG-seq genetic screens
 - Designed single-cell RNA sequencing assays, trained team members, implemented bioinformatics workflow, and conducted analyses to improve packaging yield and tissue-specificity of AAV vectors
 - Implemented bioinformatics workflows and conducted analyses of high-throughput sequencing-based pooled screens to identify sequences improving the stability and translation of RNA vectors
 - Analyzed high-throughput RNA sequencing time-course experiments to identify bottlenecks in molecule biosynthesis following fungi cell engineering
 - Developed annotation standards and contributed reference-based, transcriptome-based, and *de novo* genome annotations for a yeast genome rewriting project
+
+**Single-Cell Genomics Team Lead** in the Center for Cancer Genomics, Dana-Farber Cancer Institute, Boston, MA, USA (May 2018 - March 2022)
+
+- Led team with a focus on molecular profiling of the tumor micro-environment using single-cell RNA and ATAC sequencing
+- Developed workflows from clinical sample collection to sequencing data analysis
+- Contributed to more than 30 clinical studies and atlases, including large consortia such as the Human Tumor Atlas Network
