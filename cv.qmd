@@ -2,8 +2,6 @@
 title: ""
 ---
 
-... page in construction ...
-
 ## Summary
 
 **Computational Biologist** with a focus on gene expression and sequencing-based screen analyses. Expert in single-cell transcriptomics, epigenetics, genome annotation, large-scale pooled and arrayed screens. Academic, biomedical, and industry background, including team and project management.
@@ -52,3 +50,31 @@ Heart Association
 **Master in Molecular, Cell, and Developmental Biology** from Pierre and Marie Curie University, Paris, France (September 2002 - July 2003)
 
 **Bachelor in Cell Biology** from Paul Sabatier University, Paris, France (September 1998 - July 2002)
+
+## Technical Skills
+
+**Programming:** Bash, R, Python, Perl, Awk, SQL, Git, Docker, Snakemake, Nextflow
+
+**Computational Biology:** Bulk and single-cell transcriptomics and epigenomics data analysis, sequencing-based arrayed and pooled screen analysis, genome annotation
+
+**Experimental Biology:** Transcriptomics, epigenomics, molecular biology, mouse embryology, cell biology, microscopy
+
+**Management:** Team hiring and training, lab and project management, data and metadata collection and sharing
+
+## Other Experiences
+
+**Instructor and Editor** with Software Carpentry, online and in Boston, MA, USA (2018 - Present)
+
+**Learning Circle Facilitator** with Peer 2 Peer University and BosLab, online and in Boston, MA, USA (2018 - 2021)
+
+**Course Developer** with the University of the People, online (2015)
+
+**Teaching Assistant** with the University of Pennsylvania School of Science, Philadelphia, PA, USA (2012)
+
+**Science Project Mentor** with iPraxis, Philadelphia, PA, USA (2008-2010)
+
+## Publications
+
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=sebastien+vigneau&ac=yes&cauthor_id=None&user_filter=&schema=none&page=1&whatsnew=None&show_snippets=on&sort=date&sort_order=desc&format=summary&size=10)
+
+[protocols.io](https://www.protocols.io/researchers/sbastien-vigneau1/publications)

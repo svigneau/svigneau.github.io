@@ -18,14 +18,14 @@
     "href": "cv.html",
     "title": "Sébastien Vigneau",
     "section": "",
-    "text": "… page in construction …"
+    "text": "Computational Biologist with a focus on gene expression and sequencing-based screen analyses. Expert in single-cell transcriptomics, epigenetics, genome annotation, large-scale pooled and arrayed screens. Academic, biomedical, and industry background, including team and project management."
   },
   {
     "objectID": "cv.html#summary",
     "href": "cv.html#summary",
     "title": "Sébastien Vigneau",
-    "section": "Summary",
-    "text": "Summary\nComputational Biologist with a focus on gene expression and sequencing-based screen analyses. Expert in single-cell transcriptomics, epigenetics, genome annotation, large-scale pooled and arrayed screens. Academic, biomedical, and industry background, including team and project management."
+    "section": "",
+    "text": "Computational Biologist with a focus on gene expression and sequencing-based screen analyses. Expert in single-cell transcriptomics, epigenetics, genome annotation, large-scale pooled and arrayed screens. Academic, biomedical, and industry background, including team and project management."
   },
   {
     "objectID": "cv.html#experience",
@@ -40,5 +40,26 @@
     "title": "Sébastien Vigneau",
     "section": "Education",
     "text": "Education\nPhD in Development Biology from Pierre and Marie Curie University, Paris, France (October 2003 - September 2007)\nMaster in Molecular, Cell, and Developmental Biology from Pierre and Marie Curie University, Paris, France (September 2002 - July 2003)\nBachelor in Cell Biology from Paul Sabatier University, Paris, France (September 1998 - July 2002)"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Sébastien Vigneau",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: Bash, R, Python, Perl, Awk, SQL, Git, Docker, Snakemake, Nextflow\nComputational Biology: Bulk and single-cell transcriptomics and epigenomics data analysis, sequencing-based arrayed and pooled screen analysis, genome annotation\nExperimental Biology: Transcriptomics, epigenomics, molecular biology, mouse embryology, cell biology, microscopy\nManagement: Team hiring and training, lab and project management, data and metadata collection and sharing"
+  },
+  {
+    "objectID": "cv.html#other-experiences",
+    "href": "cv.html#other-experiences",
+    "title": "Sébastien Vigneau",
+    "section": "Other Experiences",
+    "text": "Other Experiences\nInstructor and Editor with Software Carpentry, online and in Boston, MA, USA (2018 - Present)\nLearning Circle Facilitator with Peer 2 Peer University and BosLab, online and in Boston, MA, USA (2018 - 2021)\nCourse Developer with the University of the People, online (2015)\nTeaching Assistant with the University of Pennsylvania School of Science, Philadelphia, PA, USA (2012)\nScience Project Mentor with iPraxis, Philadelphia, PA, USA (2008-2010)"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Sébastien Vigneau",
+    "section": "Publications",
+    "text": "Publications\nPubmed\nprotocols.io"
   }
 ]
