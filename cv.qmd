@@ -10,38 +10,36 @@ title: ""
 
 **Senior Computational Biologist** in the Next Generation Sequencing and Datapoints Teams, Ginkgo Bioworks, Boston, MA, USA (April 2022 - Present)
 
-- Building bioinformatics workflows and conducting analyses for single-cell RNA sequencing and arrayed DRUG-seq genetic screens
-- Designed single-cell RNA sequencing assays, trained team members, implemented bioinformatics workflow, and conducted analyses to improve packaging yield and tissue-specificity of AAV vectors
-- Implemented bioinformatics workflows and conducted analyses of high-throughput sequencing-based pooled screens to identify sequences improving the stability and translation of RNA vectors
-- Analyzed high-throughput RNA sequencing time-course experiments to identify bottlenecks in molecule biosynthesis following fungi cell engineering
-- Developed annotation standards and contributed reference-based, transcriptome-based, and *de novo* genome annotations for a yeast genome rewriting project
+- Led analyses and developed bioinformatics workflows for sequencing-based single-cell and arrayed genetic screens (Perturb-Seq and DRUG-seq), significantly improving our functional genomics capabilities
+- Established single-cell/nucleus RNA-seq approaches to optimize AAV vectors for gene therapy, enabling the identification of crucial factors affecting packaging yield and tissue-specificity 
+- Developed methodologies for high-throughput screening of sequence elements influencing mRNA and circular RNA vectors efficacy using polysome profiling data 
+- Implemented standardized workflows for in-house genome annotation, enhancing consistency and reproducibility across projects
 
 **Single-Cell Genomics Team Lead** in the Center for Cancer Genomics, Dana-Farber Cancer Institute, Boston, MA, USA (May 2018 - March 2022)
 
-- Led team with a focus on molecular profiling of the tumor micro-environment using single-cell RNA and ATAC sequencing
-- Developed workflows from clinical sample collection to sequencing data analysis
-- Contributed to more than 30 clinical studies and atlases, including large consortia such as the Human Tumor Atlas Network
+-   Led team with a focus on molecular profiling of the tumor micro-environment using single-cell RNA and ATAC sequencing
+-   Developed workflows from clinical sample collection to sequencing data analysis
+-   Contributed to more than 30 clinical studies and atlases, including large consortia such as the Human Tumor Atlas Network
 
 **Research Scientist** in the Gimelbrant Lab, Dana-Farber Cancer Institute, Boston, MA, USA (July 2013 - May 2018)
 
-- Investigated the mechanisms and function of genome-wide monoallelic gene expression
-- Developed a machine-learning tool set and web application to infer monoallelic expression from chromatin marks
-- Conducted sequencing-based shRNA and drug screening to identify factors controlling allelic expression
-- Implemented an inDrop single-cell RNA sequencing platform
+-   Investigated the mechanisms and function of genome-wide monoallelic gene expression
+-   Developed a machine-learning tool set and web application to infer monoallelic expression from chromatin marks
+-   Conducted sequencing-based shRNA and drug screening to identify factors controlling allelic expression
+-   Implemented an inDrop single-cell RNA sequencing platform
 
 **Research Fellow** in the Bartolomei Lab, University of Pennsylvania School of Medicine, Philadelphia, PA, USA (March 2008 - June 2013)
 
-- Investigated genetic and epigenetic controls of cell-type specific gene expression
-- Characterized functionally distinct classes of binding sites for the transcriptional regulator protein CTCF
-- Developed a cell model for the high-throughput screening of factors capable of reverting Rett syndrome
-- Awards: Post-doctoral fellowships from the French Foundation for Medical Research and the American
-Heart Association
+-   Investigated genetic and epigenetic controls of cell-type specific gene expression
+-   Characterized functionally distinct classes of binding sites for the transcriptional regulator protein CTCF
+-   Developed a cell model for the high-throughput screening of factors capable of reverting Rett syndrome
+-   Awards: Post-doctoral fellowships from the French Foundation for Medical Research and the American Heart Association
 
 **PhD Candidate** in the Avner Lab, Pasteur Institute, Paris, France (September 2003 - September 2007)
 
-- Investigated genetic and epigenetic factors controlling X chromosome inactivation
-- Identified genomic elements controlling X chromosome inactivation using targeted deletions in mouse
-- Award: Doctoral fellowship from the French Association for Research against Cancer
+-   Investigated genetic and epigenetic factors controlling X chromosome inactivation
+-   Identified genomic elements controlling X chromosome inactivation using targeted deletions in mouse
+-   Award: Doctoral fellowship from the French Association for Research against Cancer
 
 ## Education
 
